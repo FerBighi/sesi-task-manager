@@ -10,6 +10,7 @@ export default function About() {
             <Text>Nome: Maria Fernanda Bighi Siqueira</Text>
             <Text>Turma: 3° Ano</Text>
             <Text>Curso: Desenvolvimento de Sistemas</Text>
+            <Text>RM: 2610</Text>
         </View>
     );
 }
